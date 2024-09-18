@@ -1,0 +1,29 @@
+﻿l_english:
+# Netherstorm
+ region_netherstorm: "Netherstorm"
+ #Kirin Var Village
+ HUB_NAME_STATE_KIRIN_VAR_VILLAGE_city: "Chapel Yard"
+ HUB_NAME_STATE_KIRIN_VAR_VILLAGE_mine: "Violet Tower"
+ HUB_NAME_STATE_KIRIN_VAR_VILLAGE_farm: "Town Square"
+ HUB_NAME_STATE_KIRIN_VAR_VILLAGE_wood: "Wizard Row"
+ #Manaforge Coruu
+ HUB_NAME_STATE_MANAFORGE_CORUU_city: "Manaforge Coruu"
+ HUB_NAME_STATE_MANAFORGE_CORUU_mine: "Sunfury Hold"
+ HUB_NAME_STATE_MANAFORGE_CORUU_farm: "BLANK-FARM-Coruu"
+ HUB_NAME_STATE_MANAFORGE_CORUU_wood: "BLANK-WOOD-Coruu"
+ #Manaforge Duro
+ HUB_NAME_STATE_MANAFORGE_DURO_city: "Manaforge Duro"
+ HUB_NAME_STATE_MANAFORGE_DURO_mine: "BLANK-mine-Duro"
+ HUB_NAME_STATE_MANAFORGE_DURO_farm: "Vortex Fields"
+ HUB_NAME_STATE_MANAFORGE_DURO_wood: "Cosmowrench"
+ #Tempest Keep
+ HUB_NAME_STATE_TEMPEST_KEEP_city: "Tempest Keep"
+ HUB_NAME_STATE_TEMPEST_KEEP_mine: "BLANK-mine-Tempest Keep"
+ HUB_NAME_STATE_TEMPEST_KEEP_farm: "Tempest Rift"
+ HUB_NAME_STATE_TEMPEST_KEEP_wood: "BLANK-WOOD-Tempest Keep"
+ #Tempest Keep
+ HUB_NAME_STATE_TEMPEST_KEEP2_city: "Tempest Keep"
+ HUB_NAME_STATE_TEMPEST_KEEP2_mine: "BLANK-mine-Tempest Keep"
+ HUB_NAME_STATE_TEMPEST_KEEP2_farm: "Tempest Rift"
+ HUB_NAME_STATE_TEMPEST_KEEP2_wood: "BLANK-WOOD-Tempest Keep"
+ 
