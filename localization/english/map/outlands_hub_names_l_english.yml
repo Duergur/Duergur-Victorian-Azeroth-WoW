@@ -65,4 +65,39 @@
  HUB_NAME_STATE_CELESTIAL_RIDGE_mine: "BLANK-mine-Celestial Ridge"
  HUB_NAME_STATE_CELESTIAL_RIDGE_farm: "Voidwind Plateau"
  HUB_NAME_STATE_CELESTIAL_RIDGE_wood: "BLANK-WOOD-Celestial Ridge"
- 
+#Blade's Edge Mountains
+ #Broken Wilds 
+ HUB_NAME_STATE_BROKEN_WILDS_city: "Broken Wilds"
+ HUB_NAME_STATE_BROKEN_WILDS_mine: "Vim'Gol's Circle"
+ HUB_NAME_STATE_BROKEN_WILDS_farm: "Skald"
+ HUB_NAME_STATE_BROKEN_WILDS_wood: "BLANK-WOOD-Broken Wilds" #could steal Gyro-plank Bridge from Ruins of Enkaat and replace it with Ruins of Enkaat
+ #The Crystalspine
+ HUB_NAME_STATE_CRYSTAL_SPINE_city: "Bash'ir Landing"
+ HUB_NAME_STATE_CRYSTAL_SPINE_mine: "Crystal Spine"
+ HUB_NAME_STATE_CRYSTAL_SPINE_farm: "Insidion's Perch"
+ HUB_NAME_STATE_CRYSTAL_SPINE_wood: "Furywing's Perch"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Daggermaw Canyon
+ HUB_NAME_STATE_DAGGERMAW_CANYON_city: "Daggermaw Canyon"
+ HUB_NAME_STATE_DAGGERMAW_CANYON_mine: "BLANK-mine-Daggermaw"
+ HUB_NAME_STATE_DAGGERMAW_CANYON_farm: "Soulgrinder Barrow"
+ HUB_NAME_STATE_DAGGERMAW_CANYON_wood: "Bloodmaul Camp"
+ #Ruaan Weald
+ HUB_NAME_STATE_RUUAN_WEALD_city: "Ruaan Weald"
+ HUB_NAME_STATE_RUUAN_WEALD_mine: "Veil Ruaan"
+ HUB_NAME_STATE_RUUAN_WEALD_farm: "Evergrove"
+ HUB_NAME_STATE_RUUAN_WEALD_wood: "Wyrmskull Bridge"
+ #Circle of Blood
+ HUB_NAME_STATE_CIRCLE_OF_BLOOD_city: "Circle of Blood"
+ HUB_NAME_STATE_CIRCLE_OF_BLOOD_mine: "Wyrmskull Tunnel"
+ HUB_NAME_STATE_CIRCLE_OF_BLOOD_farm: "Cursed Hollow"
+ HUB_NAME_STATE_CIRCLE_OF_BLOOD_wood: "Dragon's End"
+ #Forge Camp Anger
+ HUB_NAME_STATE_FORGE_CAMP_ANGER_city: "Forge Camp: Anger"
+ HUB_NAME_STATE_FORGE_CAMP_ANGER_mine: "Razor Ridge"
+ HUB_NAME_STATE_FORGE_CAMP_ANGER_farm: "Razaan's Landing"
+ HUB_NAME_STATE_FORGE_CAMP_ANGER_wood: "Bladed Gulch"
