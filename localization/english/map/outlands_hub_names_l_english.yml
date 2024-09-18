@@ -1,6 +1,5 @@
 ﻿l_english:
 # Netherstorm
- region_netherstorm: "Netherstorm"
  #Kirin Var Village
  HUB_NAME_STATE_KIRIN_VAR_VILLAGE_city: "Chapel Yard"
  HUB_NAME_STATE_KIRIN_VAR_VILLAGE_mine: "Violet Tower"
@@ -16,14 +15,54 @@
  HUB_NAME_STATE_MANAFORGE_DURO_mine: "BLANK-mine-Duro"
  HUB_NAME_STATE_MANAFORGE_DURO_farm: "Vortex Fields"
  HUB_NAME_STATE_MANAFORGE_DURO_wood: "Cosmowrench"
- #Tempest Keep
+ #Eco-Dome Midrealm
+ HUB_NAME_STATE_ECO_DOME_MIDREALM_city: "Eco-Dome Midrealm"
+ HUB_NAME_STATE_ECO_DOME_MIDREALM_mine: "Scrap Field"
+ HUB_NAME_STATE_ECO_DOME_MIDREALM_farm: "Midrealm Post"
+ HUB_NAME_STATE_ECO_DOME_MIDREALM_wood: "Invasion Point: Destroyer
+ #Tempest Keep 
  HUB_NAME_STATE_TEMPEST_KEEP_city: "Tempest Keep"
  HUB_NAME_STATE_TEMPEST_KEEP_mine: "BLANK-mine-Tempest Keep"
  HUB_NAME_STATE_TEMPEST_KEEP_farm: "Tempest Rift"
  HUB_NAME_STATE_TEMPEST_KEEP_wood: "BLANK-WOOD-Tempest Keep"
- #Tempest Keep
- HUB_NAME_STATE_TEMPEST_KEEP2_city: "Tempest Keep"
- HUB_NAME_STATE_TEMPEST_KEEP2_mine: "BLANK-mine-Tempest Keep"
- HUB_NAME_STATE_TEMPEST_KEEP2_farm: "Tempest Rift"
- HUB_NAME_STATE_TEMPEST_KEEP2_wood: "BLANK-WOOD-Tempest Keep"
+ #Ruins of Enkaat
+ HUB_NAME_STATE_AREA_52_city: "Area 52"
+ HUB_NAME_STATE_AREA_52_mine: "Camp of Boom"
+ HUB_NAME_STATE_AREA_52_farm: "Proving Grounds"
+ HUB_NAME_STATE_AREA_52_wood: "Gyroplank Bridge"
+ #Manaforge B'naar
+ HUB_NAME_STATE_MANAFORGE_BNAAR_city: "Manaforge B'naar"
+ HUB_NAME_STATE_MANAFORGE_BNAAR_mine: "Heap"
+ HUB_NAME_STATE_MANAFORGE_BNAAR_farm: "Arklonis Ridge"
+ HUB_NAME_STATE_MANAFORGE_BNAAR_wood: "Arklon Ruins"
+ #Manaforge Ara
+ HUB_NAME_STATE_MANAFORGE_ARA_city: "Manaforge Ara"
+ HUB_NAME_STATE_MANAFORGE_ARA_mine: "Trelleum Mine"
+ HUB_NAME_STATE_MANAFORGE_ARA_farm: "Socrethar's Seat"
+ HUB_NAME_STATE_MANAFORGE_ARA_wood: "BLANK-WOOD-Manaforge Ara"
+ #Stormspire
+ HUB_NAME_STATE_STORMSPIRE_city: "Stormspire"
+ HUB_NAME_STATE_STORMSPIRE_mine: "Tuluman's Landing"
+ HUB_NAME_STATE_STORMSPIRE_farm: "Eco-Dome Sutheron"
+ HUB_NAME_STATE_STORMSPIRE_wood: "Eco-Dome Skyperch"
+ #Forge Base: Oblivion
+ HUB_NAME_STATE_FORGE_BASE_OBLIVION_city: "Forge Base: Oblivion"
+ HUB_NAME_STATE_FORGE_BASE_OBLIVION_mine: "BLANK-mine-Forge Base Oblivion"
+ HUB_NAME_STATE_FORGE_BASE_OBLIVION_farm: "Forge Base: Gehenna"
+ HUB_NAME_STATE_FORGE_BASE_OBLIVION_wood: "Invasion Point: Overlord"
+ #Ruins of Farahion
+ HUB_NAME_STATE_RUINS_FARAHION_city: "Ruins of Farahion"
+ HUB_NAME_STATE_RUINS_FARAHION_mine: "Netherstone"
+ HUB_NAME_STATE_RUINS_FARAHION_farm: "Eco-Dome Farfield"
+ HUB_NAME_STATE_RUINS_FARAHION_wood: "BLANK-WOOD-Farahion"
+ #Manaforge Ultris
+ HUB_NAME_STATE_MANAFORGE_ULTRIUS_city: "Manaforge Ultris"
+ HUB_NAME_STATE_MANAFORGE_ULTRIUS_mine: "Access Shaft Zeon"
+ HUB_NAME_STATE_MANAFORGE_ULTRIUS_farm: "Ethereum Staging Grounds"
+ HUB_NAME_STATE_MANAFORGE_ULTRIUS_wood: "Protectorate Watch Post"
+ #Celestial Ridge
+ HUB_NAME_STATE_CELESTIAL_RIDGE_city: "Celestial Ridge"
+ HUB_NAME_STATE_CELESTIAL_RIDGE_mine: "BLANK-mine-Celestial Ridge"
+ HUB_NAME_STATE_CELESTIAL_RIDGE_farm: "Voidwind Plateau"
+ HUB_NAME_STATE_CELESTIAL_RIDGE_wood: "BLANK-WOOD-Celestial Ridge"
  
