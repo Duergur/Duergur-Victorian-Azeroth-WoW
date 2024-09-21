@@ -101,3 +101,48 @@
  HUB_NAME_STATE_FORGE_CAMP_ANGER_mine: "Razor Ridge"
  HUB_NAME_STATE_FORGE_CAMP_ANGER_farm: "Razaan's Landing"
  HUB_NAME_STATE_FORGE_CAMP_ANGER_wood: "Bladed Gulch"
+ #Raven's Wood
+ HUB_NAME_STATE_RAVENS_WOOD_city: "Raven's Wood"
+ HUB_NAME_STATE_RAVENS_WOOD_mine: "Blackwing Coven"
+ HUB_NAME_STATE_RAVENS_WOOD_farm: "Grisnath"
+ HUB_NAME_STATE_RAVENS_WOOD_wood: "Boulder'mok"
+ #Forge Camp: Wrath
+ HUB_NAME_STATE_FORGE_CAMP_WRATH_city: "Forge Camp: Wrath"
+ HUB_NAME_STATE_FORGE_CAMP_WRATH_mine: "Sharkuul's Transporter"
+ HUB_NAME_STATE_FORGE_CAMP_WRATH_farm: "Ogri'la"
+ HUB_NAME_STATE_FORGE_CAMP_WRATH_wood: "Skyguard Outpost"
+ #Forge Camp: Terror
+ HUB_NAME_STATE_FORGE_CAMP_TERROR_city: "Forge Camp: Terror"
+ HUB_NAME_STATE_FORGE_CAMP_TERROR_mine: "Vortex Summit"
+ HUB_NAME_STATE_FORGE_CAMP_TERROR_farm: "Obsidia's Perch"
+ HUB_NAME_STATE_FORGE_CAMP_TERROR_wood: "Rivendark's Perch"
+ #Sylvanaar
+ HUB_NAME_STATE_SYLVANAAR_city: "Sylvanaar"
+ HUB_NAME_STATE_SYLVANAAR_mine: "Blade Tooth Canyon"
+ HUB_NAME_STATE_SYLVANAAR_farm: "Living Grove"
+ HUB_NAME_STATE_SYLVANAAR_wood: "Veil Lashh"
+ #Bladespire Hold
+ HUB_NAME_STATE_BLADESPIRE_HOLD_city: "Bladespire Hold"
+ HUB_NAME_STATE_BLADESPIRE_HOLD_mine: "Dragonspine Ridge"
+ HUB_NAME_STATE_BLADESPIRE_HOLD_farm: "Bladespire Grounds"
+ HUB_NAME_STATE_BLADESPIRE_HOLD_wood: "Churning Gulch"
+ #Bloodmaul Post #Not Used: Bloodmaul Ravine
+ HUB_NAME_STATE_BLOODMAUL_POST_city: "Bloodmaul Outpost"
+ HUB_NAME_STATE_BLOODMAUL_POST_mine: "Draenethyst Mine"
+ HUB_NAME_STATE_BLOODMAUL_POST_farm: "Northmaul Tower"
+ HUB_NAME_STATE_BLOODMAUL_POST_wood: "Southmaul Tower"
+ #Thunderlord Stronghold
+ HUB_NAME_STATE_THUNDERLORD_STRONGHOLD_city: "Thunderlord Stronghold"
+ HUB_NAME_STATE_THUNDERLORD_STRONGHOLD_mine: "Blade's Edge Mountains"
+ HUB_NAME_STATE_THUNDERLORD_STRONGHOLD_farm: "Jagged Ridge"
+ HUB_NAME_STATE_THUNDERLORD_STRONGHOLD_wood: "Blade's Run"
+ #Singing Ridge
+ HUB_NAME_STATE_SINGING_RIDGE_city: "Toshley's Station"
+ HUB_NAME_STATE_SINGING_RIDGE_mine: "Singing Ridge"
+ HUB_NAME_STATE_SINGING_RIDGE_farm: "Scalewing Shelf"
+ HUB_NAME_STATE_SINGING_RIDGE_wood: "Death's Door"
+ #Gruul's Lair
+ HUB_NAME_STATE_VEKHAAR_STAND_city: "Vekhaar Stand"
+ HUB_NAME_STATE_VEKHAAR_STAND_mine: "Trogma's Claim"
+ HUB_NAME_STATE_VEKHAAR_STAND_farm: "Mok'Nathal Village"
+ HUB_NAME_STATE_VEKHAAR_STAND_wood: "Veil Vekh"
