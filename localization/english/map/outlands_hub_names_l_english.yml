@@ -141,8 +141,65 @@
  HUB_NAME_STATE_SINGING_RIDGE_mine: "Singing Ridge"
  HUB_NAME_STATE_SINGING_RIDGE_farm: "Scalewing Shelf"
  HUB_NAME_STATE_SINGING_RIDGE_wood: "Death's Door"
- #Gruul's Lair
+ #Vekhaar Stand
  HUB_NAME_STATE_VEKHAAR_STAND_city: "Vekhaar Stand"
  HUB_NAME_STATE_VEKHAAR_STAND_mine: "Trogma's Claim"
  HUB_NAME_STATE_VEKHAAR_STAND_farm: "Mok'Nathal Village"
  HUB_NAME_STATE_VEKHAAR_STAND_wood: "Veil Vekh"
+#Zangarmarsh
+ #Ango'rosh Grounds
+ HUB_NAME_STATE_ANGO_ROSH_GROUNDS_city: "Ango'rosh Grounds"
+ HUB_NAME_STATE_ANGO_ROSH_GROUNDS_mine: "Ango'rosh Stronghold"
+ HUB_NAME_STATE_ANGO_ROSH_GROUNDS_farm: "Daggerfen Village"
+ HUB_NAME_STATE_ANGO_ROSH_GROUNDS_wood: "Hewn Bog"
+ #Sporeggar
+ HUB_NAME_STATE_SPOREGGAR_city: "Sporeggar"
+ HUB_NAME_STATE_SPOREGGAR_mine: "Sporewind Lake"
+ HUB_NAME_STATE_SPOREGGAR_farm: "Spawning Glen"
+ HUB_NAME_STATE_SPOREGGAR_wood: "Portal Clearing"
+ #Zabra'jin
+ HUB_NAME_STATE_ZABRA_JIN_city: "Zabra'jin"
+ HUB_NAME_STATE_ZABRA_JIN_mine: "Quagg Ridge"
+ HUB_NAME_STATE_ZABRA_JIN_farm: "Cenarion Watchpost"
+ HUB_NAME_STATE_ZABRA_JIN_wood: "Bloodscale Enclave"
+ #Feralfen Village
+ HUB_NAME_STATE_FERALFEN_VILLAGE_city: "Feralfen Village"
+ HUB_NAME_STATE_FERALFEN_VILLAGE_mine: "Boha'mu Ruins"
+ HUB_NAME_STATE_FERALFEN_VILLAGE_farm: "Lagoon"
+ HUB_NAME_STATE_FERALFEN_VILLAGE_wood: "Darkcrest Enclave"
+ #Coilfang Reservoir
+ HUB_NAME_STATE_COILFANG_RESERVOIR_city: "Coilfang Reservoir"
+ HUB_NAME_STATE_COILFANG_RESERVOIR_mine: "BLANK-mine-Coilfang"
+ HUB_NAME_STATE_COILFANG_RESERVOIR_farm: "BLANK-farm-Coilfang"
+ HUB_NAME_STATE_COILFANG_RESERVOIR_wood: "BLANK-wood-Coilfang"
+ #Twin Spire Ruins  
+ HUB_NAME_STATE_TWIN_SPIRE_city: "Twin Spire Ruins"
+ HUB_NAME_STATE_TWIN_SPIRE_mine: "Orebor Harborage"
+ HUB_NAME_STATE_TWIN_SPIRE_farm: "Serpent Lake"
+ HUB_NAME_STATE_TWIN_SPIRE_wood: "Bloodscale Grounds"
+ #Telredor
+ HUB_NAME_STATE_TEL_REDOR_city: "Telredor"
+ HUB_NAME_STATE_TEL_REDOR_mine: "Dead Mire"
+ HUB_NAME_STATE_TEL_REDOR_farm: "Cenarion Refuge"
+ HUB_NAME_STATE_TEL_REDOR_wood: "Swamprat Post"
+ #Umbrafen Village
+ HUB_NAME_STATE_UMBRAFEN_VILLAGE_city: "Umbrafen Village"
+ HUB_NAME_STATE_UMBRAFEN_VILLAGE_mine: "Funggor Cavern"
+ HUB_NAME_STATE_UMBRAFEN_VILLAGE_farm: "Umbrafen Lake"
+ HUB_NAME_STATE_UMBRAFEN_VILLAGE_wood: "Darkcrest Shore"
+ #Nagrand
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
