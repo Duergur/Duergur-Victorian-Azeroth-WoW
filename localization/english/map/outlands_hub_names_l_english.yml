@@ -187,17 +187,58 @@
  HUB_NAME_STATE_UMBRAFEN_VILLAGE_mine: "Funggor Cavern"
  HUB_NAME_STATE_UMBRAFEN_VILLAGE_farm: "Umbrafen Lake"
  HUB_NAME_STATE_UMBRAFEN_VILLAGE_wood: "Darkcrest Shore"
- #Nagrand
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+#Nagrand
+ #Warmaul Hill
+ HUB_NAME_STATE_WARMAUL_HILL_city: "Warmaul Hill"
+ HUB_NAME_STATE_WARMAUL_HILL_mine: "Zangar Ridge"
+ HUB_NAME_STATE_WARMAUL_HILL_farm: "Sunspring Post"
+ HUB_NAME_STATE_WARMAUL_HILL_wood: "Lake Sunspring"
+ #Twilight Ridge
+ HUB_NAME_STATE_TWILIGHT_RIDGE_city: "Twilight Ridge"
+ HUB_NAME_STATE_TWILIGHT_RIDGE_mine: "Mag'har Procession"
+ HUB_NAME_STATE_TWILIGHT_RIDGE_farm: "Forge Camp: Hate"
+ HUB_NAME_STATE_TWILIGHT_RIDGE_wood: "Forge Camp: Fear"
+ #Oshu'gun
+ HUB_NAME_STATE_OSHU_GUN_city: "Oshu'gun"
+ HUB_NAME_STATE_OSHU_GUN_mine: "Aeris Landing"
+ HUB_NAME_STATE_OSHU_GUN_farm: "Spirit Fields"
+ HUB_NAME_STATE_OSHU_GUN_wood: "Ancestral Grounds"
+ #Halaa
+ HUB_NAME_STATE_HALAA_city: "Halaa"
+ HUB_NAME_STATE_HALAA_mine: "Northwind Cleft"
+ HUB_NAME_STATE_HALAA_farm: "Halaani Basin"
+ HUB_NAME_STATE_HALAA_wood: "Southwind Cleft"
+ #Laughing Skull Ruins
+ HUB_NAME_STATE_LAUGHING_SKULL_RUINS_city: "Laughing Skull Ruins"
+ HUB_NAME_STATE_LAUGHING_SKULL_RUINS_mine: "BLANK-mine-LaughSkull"
+ HUB_NAME_STATE_LAUGHING_SKULL_RUINS_farm: "Ring of Blood"
+ HUB_NAME_STATE_LAUGHING_SKULL_RUINS_wood: "Laughing Skull Courtyard"
+ #Garadar
+ HUB_NAME_STATE_GARADAR_city: "Garadar"
+ HUB_NAME_STATE_GARADAR_mine: "Elemental Plateau"
+ HUB_NAME_STATE_GARADAR_farm: "Skysong Lake"
+ HUB_NAME_STATE_GARADAR_wood: "Throne of the Elements"
+ #Windyreed Pass
+ HUB_NAME_STATE_WINDYREED_PASS_city: "Windyreed Village"
+ HUB_NAME_STATE_WINDYREED_PASS_mine: "Windyreed Pass" #could also be Barrier Hills
+ HUB_NAME_STATE_WINDYREED_PASS_farm: "High Path"
+ HUB_NAME_STATE_WINDYREED_PASS_wood: "Nesingwary Safari"
+ #Kil'sorrow Fortress
+ HUB_NAME_STATE_KIL_SORROW_FORTRESS_city: "Kil'sorrow Fortress"
+ HUB_NAME_STATE_KIL_SORROW_FORTRESS_mine: "BLANK-mine-Gruul" #Could use High Path from Windyreed Pass
+ HUB_NAME_STATE_KIL_SORROW_FORTRESS_farm: "Low Path"
+ HUB_NAME_STATE_KIL_SORROW_FORTRESS_wood: "Burning Blade Ruins"
+ #Telaar
+ HUB_NAME_STATE_TELAAR_city: "Telaar"
+ HUB_NAME_STATE_TELAAR_mine: "Abandoned Armory"
+ HUB_NAME_STATE_TELAAR_farm: "Telaari Basin"
+ HUB_NAME_STATE_TELAAR_wood: "Clan Watch"
+ #Ring of Trials
+ HUB_NAME_STATE_RING_OF_TRIALS_city: "Ring of Trials"
+ HUB_NAME_STATE_RING_OF_TRIALS_mine: "BLANK-mine-Trials"
+ HUB_NAME_STATE_RING_OF_TRIALS_farm: "BLANK-farm-Trials"
+ HUB_NAME_STATE_RING_OF_TRIALS_wood: "BLANK-wood-Trials"
+#Hellfire Peninsula
  #Gruul's Lair
  HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
  HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
