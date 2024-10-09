@@ -309,4 +309,86 @@
  HUB_NAME_STATE_POOLS_OF_AGGONAR_mine: "Stonewall Canyon"
  HUB_NAME_STATE_POOLS_OF_AGGONAR_farm: "BLANK-farm-Aggonar"
  HUB_NAME_STATE_POOLS_OF_AGGONAR_wood: "BLANK-wood-Aggonar"
+#Terokkar Forest
+ #Shattrath City
+ HUB_NAME_STATE_SHATTRATH_CITY_city: "Shattrath City"
+ HUB_NAME_STATE_SHATTRATH_CITY_mine: "BLANK-mine-Shattrath"
+ HUB_NAME_STATE_SHATTRATH_CITY_farm: "BLANK-farm-Shattrath"
+ HUB_NAME_STATE_SHATTRATH_CITY_wood: "BLANK-wood-Shattrath"
+ #Auchindoun
+ HUB_NAME_STATE_AUCHINDOUN_city: "Auchindoun"
+ HUB_NAME_STATE_AUCHINDOUN_mine: "Ring of Observence "
+ HUB_NAME_STATE_AUCHINDOUN_farm: "BLANK-farm-Auchindoun"
+ HUB_NAME_STATE_AUCHINDOUN_wood: "BLANK-wood-Auchindoun"
+ #The Bone Wastes #Refugee Caravan not used
+ HUB_NAME_STATE_THE_BONE_WASTES_city: "The Bone Wastes"
+ HUB_NAME_STATE_THE_BONE_WASTES_mine: "Shadow Tomb"
+ HUB_NAME_STATE_THE_BONE_WASTES_farm: "Veil Skith"
+ HUB_NAME_STATE_THE_BONE_WASTES_wood: "Veil Rhaze"
+ #sStonebreaker Hold 
+ HUB_NAME_STATE_STONEBREAKER_HOLD_city: "Stonebreaker Hold"
+ HUB_NAME_STATE_STONEBREAKER_HOLD_mine: "Carrion Hill"
+ HUB_NAME_STATE_STONEBREAKER_HOLD_farm: "Grangol'var Village"
+ HUB_NAME_STATE_STONEBREAKER_HOLD_wood: "Tomb of Lights"
+ #Bleeding Hollow Ruins 
+ HUB_NAME_STATE_BLEEDING_HOLLOW_RUINS_city: "Bleeding Hollow Ruins"
+ HUB_NAME_STATE_BLEEDING_HOLLOW_RUINS_mine: "Veil Lithic"
+ HUB_NAME_STATE_BLEEDING_HOLLOW_RUINS_farm: "Sha'tari Base Camp"
+ HUB_NAME_STATE_BLEEDING_HOLLOW_RUINS_wood: "Auchenai Grounds"
+ #Writhing Mound
+ HUB_NAME_STATE_WRITHING_MOUND_city: "Veil Shalas"
+ HUB_NAME_STATE_WRITHING_MOUND_mine: "Netherweb Ridge"
+ HUB_NAME_STATE_WRITHING_MOUND_farm: "Writhing Mound"
+ HUB_NAME_STATE_WRITHING_MOUND_wood: "Derelict Caravan"
+ #Blackwind Valley #Didn't use Blackwind Landing or Blackwind Lake
+ HUB_NAME_STATE_BLACKWIND_VALLEY_city: "Blackwind Valley"
+ HUB_NAME_STATE_BLACKWIND_VALLEY_mine: "Skethyl Mountains"
+ HUB_NAME_STATE_BLACKWIND_VALLEY_farm: "Veil Harr'ik"
+ HUB_NAME_STATE_BLACKWIND_VALLEY_wood: "Terokk's Rest"
+ #Skettis
+ HUB_NAME_STATE_SKETTIS_city: "Skettis"
+ HUB_NAME_STATE_SKETTIS_mine: "Lower Veil Shil'ak"
+ HUB_NAME_STATE_SKETTIS_farm: "Veil Shil'ak"
+ HUB_NAME_STATE_SKETTIS_wood: "Upper Veil Shil'ak"
+ #Allerian Stronghold
+ HUB_NAME_STATE_ALLERIAN_STRONGHOLD_city: "Allerian Stronghold"
+ HUB_NAME_STATE_ALLERIAN_STRONGHOLD_mine: "BLANK-mine-Allerian"
+ HUB_NAME_STATE_ALLERIAN_STRONGHOLD_farm: "Lake Ere'Noru"
+ HUB_NAME_STATE_ALLERIAN_STRONGHOLD_wood: "Bonechewer Ruins"
+ #Firewing Point
+ HUB_NAME_STATE_FIREWING_POINT_city: "Firewing Point"
+ HUB_NAME_STATE_FIREWING_POINT_mine: "Allerian Post"
+ HUB_NAME_STATE_FIREWING_POINT_farm: "Wayne's Refuge"
+ HUB_NAME_STATE_FIREWING_POINT_wood: "BLANK-wood-Firwing"
+ #Tuurem
+ HUB_NAME_STATE_TUUREM_city: "Tuurem"
+ HUB_NAME_STATE_TUUREM_mine: "BLANK-mine-Tuurem"
+ HUB_NAME_STATE_TUUREM_farm: "Veil Shienor"
+ HUB_NAME_STATE_TUUREM_wood: "Razorthorn Shelf"
+ #Cenarion Thicket
+ HUB_NAME_STATE_CENARION_THICKET_city: "Cenarion Thicket"
+ HUB_NAME_STATE_CENARION_THICKET_mine: "Razorthorn Rize"
+ HUB_NAME_STATE_CENARION_THICKET_farm: "Silmyr Lake"
+ HUB_NAME_STATE_CENARION_THICKET_wood: "Veil Reskk"
+#Shadowmoon Valley
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
 
