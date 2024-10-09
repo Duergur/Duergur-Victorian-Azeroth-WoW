@@ -254,54 +254,59 @@
  HUB_NAME_STATE_THRONE_KILJAEDEN_mine: "Invasion Point: Annihilator"
  HUB_NAME_STATE_THRONE_KILJAEDEN_farm: "Forge Camp: Rage"
  HUB_NAME_STATE_THRONE_KILJAEDEN_wood: "Forge Camp: Mageddon"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
- #Gruul's Lair
- HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
- HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
- HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Thrallmar
+ HUB_NAME_STATE_THRALLMAR_city: "Thrallmar"
+ HUB_NAME_STATE_THRALLMAR_mine: "Thrallmar Mine"
+ HUB_NAME_STATE_THRALLMAR_farm: "Supply Caravan"
+ HUB_NAME_STATE_THRALLMAR_wood: "Felspark Ravine"
+ #Honor Hold
+ HUB_NAME_STATE_HONOR_HOLD_city: "Honor Hold"
+ HUB_NAME_STATE_HONOR_HOLD_mine: "Honor Hold Mine"
+ HUB_NAME_STATE_HONOR_HOLD_farm: "East Supply Caravan"
+ HUB_NAME_STATE_HONOR_HOLD_wood: "Valley of Bones"
+ #Zeth'Gor
+ HUB_NAME_STATE_ZETH_GOR_city: "Zeth'Gor"
+ HUB_NAME_STATE_ZETH_GOR_mine: "Spinebreaker Mountains"
+ HUB_NAME_STATE_ZETH_GOR_farm: "Void Ridge"
+ HUB_NAME_STATE_ZETH_GOR_wood: "Spinebreaker Pass"
+ #Expedition Armory #Zeppelin Crash not used
+ HUB_NAME_STATE_EXPEDITION_ARMORY_city: "Expedition Armory"
+ HUB_NAME_STATE_EXPEDITION_ARMORY_mine: "Spinebreaker Post"
+ HUB_NAME_STATE_EXPEDITION_ARMORY_farm: "Warp Fields"
+ HUB_NAME_STATE_EXPEDITION_ARMORY_wood: "Gor'gaz Outpost"
+ #Den of Haal'esh
+ HUB_NAME_STATE_DEN_HAALESH_city: "Den of Haal'esh"
+ HUB_NAME_STATE_DEN_HAALESH_mine: "Haal'eshi Gorge"
+ HUB_NAME_STATE_DEN_HAALESH_farm: "Razorthorn Trail"
+ HUB_NAME_STATE_DEN_HAALESH_wood: "Dustquill Ravine"
+ #Falcon Watch
+ HUB_NAME_STATE_FALCON_WATCH_city: "Falcon Watch"
+ HUB_NAME_STATE_FALCON_WATCH_mine: "Great Fissure"
+ HUB_NAME_STATE_FALCON_WATCH_farm: "Broken Hill"
+ HUB_NAME_STATE_FALCON_WATCH_wood: "Stadium"
+ #Ruins of Sha'naar
+ HUB_NAME_STATE_RUINS_SHA_NAAR_city: "Ruins of Sha'naar"
+ HUB_NAME_STATE_RUINS_SHA_NAAR_mine: "Thornfang Hill"S
+ HUB_NAME_STATE_RUINS_SHA_NAAR_farm: "Sha'naari Wastes"
+ HUB_NAME_STATE_RUINS_SHA_NAAR_wood: "Cenarion Post"
+ #Temple of Telhamat
+ HUB_NAME_STATE_TEMPLE_TELHAMAT_city: "Temple of Telhamat"
+ HUB_NAME_STATE_TEMPLE_TELHAMAT_mine: "Fallen Sky Ridge"
+ HUB_NAME_STATE_TEMPLE_TELHAMAT_farm: "BLANK-farm-Temple-Telhamat"
+ HUB_NAME_STATE_TEMPLE_TELHAMAT_wood: "BLANK-wood-Temple-Telhamat"
+ #Mag'har Post
+ HUB_NAME_STATE_MAG_HAR_POST_city: "Mag'har Post"
+ HUB_NAME_STATE_MAG_HAR_POST_mine: "BLANK-mine-Maghar"
+ HUB_NAME_STATE_MAG_HAR_POST_farm: "Mag'har Grounds"
+ HUB_NAME_STATE_MAG_HAR_POST_wood: "BLANK-wood-Maghar"
+ #Hellfire Citadel
+ HUB_NAME_STATE_HELLFIRE_CITADEL_city: "Hellfire Citadel"
+ HUB_NAME_STATE_HELLFIRE_CITADEL_mine: "Hellfire Basin"
+ HUB_NAME_STATE_HELLFIRE_CITADEL_farm: "Southern Rampart"
+ HUB_NAME_STATE_HELLFIRE_CITADEL_wood: "BLANK-wood-Hellfire-Citadel"
+ #Pools of Aggonar
+ HUB_NAME_STATE_POOLS_OF_AGGONAR_city: "Pools of Aggonar"
+ HUB_NAME_STATE_POOLS_OF_AGGONAR_mine: "Stonewall Canyon"
+ HUB_NAME_STATE_POOLS_OF_AGGONAR_farm: "BLANK-farm-Aggonar"
+ HUB_NAME_STATE_POOLS_OF_AGGONAR_wood: "BLANK-wood-Aggonar"
 
