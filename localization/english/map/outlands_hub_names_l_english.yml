@@ -239,8 +239,69 @@
  HUB_NAME_STATE_RING_OF_TRIALS_farm: "BLANK-farm-Trials"
  HUB_NAME_STATE_RING_OF_TRIALS_wood: "BLANK-wood-Trials"
 #Hellfire Peninsula
+ #The Dark Portal Outlands
+ HUB_NAME_STATE_THE_DARK_PORTAL_OUTLANDS_city: "The Dark Portal"
+ HUB_NAME_STATE_THE_DARK_PORTAL_OUTLANDS_mine: "Shatter Point"
+ HUB_NAME_STATE_THE_DARK_PORTAL_OUTLANDS_farm: "Path of Destiny"
+ HUB_NAME_STATE_THE_DARK_PORTAL_OUTLANDS_wood: "Path of Glory"
+ #The Legion Front
+ HUB_NAME_STATE_LEGION_FRONT_city: "The Legion Front"
+ HUB_NAME_STATE_LEGION_FRONT_mine: "Path of Anguish"
+ HUB_NAME_STATE_LEGION_FRONT_farm: "Reaver's Fall"
+ HUB_NAME_STATE_LEGION_FRONT_wood: "Expedition Point"
+ #Throne of Kil'jaeden
+ HUB_NAME_STATE_THRONE_KILJAEDEN_city: "Throne of Kil'jaeden"
+ HUB_NAME_STATE_THRONE_KILJAEDEN_mine: "Invasion Point: Annihilator"
+ HUB_NAME_STATE_THRONE_KILJAEDEN_farm: "Forge Camp: Rage"
+ HUB_NAME_STATE_THRONE_KILJAEDEN_wood: "Forge Camp: Mageddon"
  #Gruul's Lair
  HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
  HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
  HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
  HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+ #Gruul's Lair
+ HUB_NAME_STATE_GRUULS_LAIR_city: "Gruul's Lair"
+ HUB_NAME_STATE_GRUULS_LAIR_mine: "BLANK-mine-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_farm: "BLANK-farm-Gruul"
+ HUB_NAME_STATE_GRUULS_LAIR_wood: "BLANK-wood-Gruul"
+
